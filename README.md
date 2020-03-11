@@ -1,6 +1,8 @@
 SHMTC
-AD8542.cir - is a spice model of an AD8542 OpAmp    
-[AnalogDevices OpAmp link](https://www.analog.com/ru/products/ad8542.html#product-overview)
+AD8542.cir - is a spice model of an AD8542 OpAmp  
+Here is a link to brows such a spice model:  
+[Spice model](https://www.analog.com/ru/license/spice-models?mediaPath=media/en/simulation-models/spice-models/AD8542.cir&modelType=spice-models)
+[AD DataSheet link](https://www.analog.com/ru/products/ad8542.html#product-overview)
 
 
   
